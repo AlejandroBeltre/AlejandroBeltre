@@ -37,6 +37,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="40" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" height="40" width="40">
 </div>
 
 ---
