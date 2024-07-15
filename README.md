@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻About me:
-- I'm currently studiying software engineering at INTEC on Santo Domingo, Dominican Republic <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" width="30">.
+- I'm currently studying software engineering at INTEC on Santo Domingo, Dominican Republic <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" width="30">.
 - I'm currently mastering the Full-Stack Web Development with the use of React to the frontend and .NET Core for the backend, Im learning and applying all the best practices for this.
 
 ---
