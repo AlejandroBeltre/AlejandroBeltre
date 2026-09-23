@@ -18,7 +18,6 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" height="40" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" height="40" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg" height="40" width="40"/>
