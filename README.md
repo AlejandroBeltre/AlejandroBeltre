@@ -1,12 +1,3 @@
-### Hi there 👋
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alejandro-beltre-14299428b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
 ### 👨‍💻About me:
 - I'm currently studying software engineering at INTEC on Santo Domingo, Dominican Republic <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg" width="30">.
 - I'm currently an DevOps Engineer Specialist @ Thryv, contributing to the design and maintenance of CI/CD pipelines, cloud resources, and monitoring solutions to ensure efficient and reliable deployments.
